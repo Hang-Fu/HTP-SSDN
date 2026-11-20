@@ -1,8 +1,12 @@
-Code for Haze Thickness Prior-injected Spectral-Spatial Dehazing Network for Hyperspectral Image, IEEE TGRS 2026
+Code for Haze Thickness Prior-injected Spectral-Spatial Dehazing Network for Hyperspectral Image, IEEE TGRS 2026, (https://ieeexplore.ieee.org/document/11664172)
+
 
 We have provided the HTP-SSDN network framework, which can be used within the complete code frameworks for our other methods: [hyperdehazing](https://github.com/Hang-Fu/HyperDehazing) and [HDMba](https://github.com/Hang-Fu/HDMba), which is located directly in the .\models folder.
 
+
 If you use this code, please kindly cite the paper: 
+
+
 @ARTICLE{11664172,
   author={Fu, Hang and Shao, Baojie and Zhang, Aizhu and Zhu, Zhigang and Roy, Swalpa Kumar and Guo, Zonghui and Sun, Genyun and Sun, Lin and Ma, Yi and Zheng, Haiyong},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
